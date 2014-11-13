@@ -8,9 +8,9 @@ vimjjj の活動記録
 
 ## なにするの？
 
-各自vimのカーソル移動の練習をします。
-このリポジトリの[issues](https://github.com/vimjjj/log/issues)で開催告知するよ！
-誰でも開けるよ！
+- 各自vimのカーソル移動の練習をします
+- このリポジトリの[issues](https://github.com/vimjjj/log/issues)で開催告知するよ！
+- 誰でも開けるよ！
 
 ## 活動場所
 
